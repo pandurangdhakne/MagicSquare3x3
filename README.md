@@ -1,1 +1,0 @@
-# MagicSquare3x3
